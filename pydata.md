@@ -122,14 +122,7 @@ All images adapted from code at http://scikit-learn.org/stable/auto_examples/svm
     * Vital for the polygenic score
 * __BUT__... These allele counts are sparse - they contain 0 values
 
-### Linear Kernel
-$\langle \mathbf{x}, \mathbf{z} \rangle = (x_{1}z_{1} + x_{2}z_{2})$
-
-### Polynomial (Quadratic) Kernel
-$\langle \mathbf{x}, \mathbf{z} \rangle^{2} = (x_{1}z_{1} + x_{2}z_{2})^{2} = x_{1}^{2}z_{1}^{2} + x_{2}^{2}z_{2}^{2} + 2x_{1}x_{2}z_{1}z_{2}$
-
-### RBF Kernel
-$\exp(-\gamma \lVert \mathbf{x} - \mathbf{z} \rVert^{2}) = \exp(-\gamma \sqrt{(x_{1}-z_{1})^2 + (x_{2}-z_{2})^{2}})$
+<img src="images/kernel_equations.png" style="width: 400px";>
 
 ## XOR Example
 

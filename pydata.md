@@ -458,7 +458,7 @@ dfg.head().T
 ### Using `LinearSVC` with a Lasso penalty
 #### Including Multiple Regression Analysis
 
-<img src="images/gene_total_separate_set_scores.pdf" style="width: 700px";>
+<img src="images/gene_total_separate_set_scores.jpg" style="width: 700px";>
 
 ## Gene Set Coefficients
 

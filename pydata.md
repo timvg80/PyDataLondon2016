@@ -271,7 +271,7 @@ if __name__=='__main__':
 
 #### Results - Fixed Parameter Permutations using `cross_val_score(n_jobs=-1)`
 
-<img src="images/125_GWAS_both_chips_all_algorithms.pdf" style="width: 700px";>
+<img src="images/125_GWAS_both_chips_all_algorithms.jpg" style="width: 700px";>
 * Extra data from different Chip
     * 2,150 Cases
     * 2,083 Controls
@@ -279,7 +279,7 @@ if __name__=='__main__':
 
 ### Results using 4,998 "sub-threshold" SNPs
 
-<img src="images/4998_snps_both_chips_all_algorithms.pdf" style="width: 700px";>
+<img src="images/4998_snps_both_chips_all_algorithms.jpg" style="width: 700px";>
 
 * Can interaction evidence be seen with more samples?
 
@@ -462,13 +462,13 @@ dfg.head().T
 
 ## Gene Set Coefficients
 
-<img src="images/gene_total_separate_set_scores_coefs.pdf" style="width: 900px";>
+<img src="images/gene_total_separate_set_scores_coefs.jpg" style="width: 900px";>
 
 * Support findings from MAGMA software (de Leeuw et al. 2015)
 
 ## Non linear kernels:
 
-<img src="images/gene_total_separate_set_scores_non_linear.pdf" style="width: 900px";>
+<img src="images/gene_total_separate_set_scores_non_linear.jpg" style="width: 900px";>
 
 ### The Real Scientific Method
 
